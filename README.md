@@ -1,6 +1,8 @@
 Hi there 👋
 
-Front-End Development: HTML&CSS, JavaScript, TypeScript, React Vite & Next.js
-Back-End Development (Learning): Node.js   
-Database (Learning): Firebase,
-Distribution: Vercel, Netlify, AWS
+<h1>Updated Tech Skills</h1>
+<p><strong>Front-End Development:</strong> HTML, CSS, JavaScript, TypeScript, React (Vite & Next.js)</p>
+<p><strong>Back-End Development:</strong> Node.js (learning)</p>
+<p><strong>Database:</strong> In progress</p>
+<p><strong>Deployment:</strong> Vercel, Netlify, AWS</p>
+<p><strong>Current Projects:</strong> Developing Next.js applications with App Router, multi-page routing, and component-based architecture</p>
