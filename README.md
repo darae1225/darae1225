@@ -10,8 +10,7 @@ Hi there 👋
 <p><strong>Completed Projects:</strong></p>
 <h2>🔗Live Demo</h2>
   <p>
-    1. Next.js web application with multi-page routing. 
+    1. A Next.js web application with multi-page routing, accessibility, and SEO optimisation.
     <a href="https://choosetherapy.com.au" target="_blank"> 🌐 Click here to view the live site</a>
   </p>
-
 
